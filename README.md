@@ -1,5 +1,5 @@
 # BMI-CALCULATOR
-## Body Mass Index Calculator made using multiple sources on the internet
+## Body Mass Index Calculator made using multiple sources on the internet. Metric and Imperial measurements too!!
 
 Orinally written by me to practice if else statements in Java and as well as the lessons that I learned previously <br>
 <br>
